@@ -278,26 +278,6 @@
                 <mxCell id="VdZG4CoYQgRuUWiyTD73-96" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" parent="VdZG4CoYQgRuUWiyTD73-93" connectable="0" vertex="1">
                     <mxGeometry x="1" relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="VdZG4CoYQgRuUWiyTD73-103" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="VdZG4CoYQgRuUWiyTD73-69" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="330" y="625" as="sourcePoint"/>
-                        <mxPoint x="230" y="463" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="660" y="540"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="VdZG4CoYQgRuUWiyTD73-104" value="&lt;h1&gt;1-&amp;gt;*&lt;/h1&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="VdZG4CoYQgRuUWiyTD73-103" connectable="0" vertex="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="1" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="VdZG4CoYQgRuUWiyTD73-105" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" parent="VdZG4CoYQgRuUWiyTD73-103" connectable="0" vertex="1">
-                    <mxGeometry x="-1" relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="VdZG4CoYQgRuUWiyTD73-106" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" parent="VdZG4CoYQgRuUWiyTD73-103" connectable="0" vertex="1">
-                    <mxGeometry x="1" relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="VdZG4CoYQgRuUWiyTD73-110" value="matirials" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="750" y="855" width="180" height="120" as="geometry"/>
                 </mxCell>
